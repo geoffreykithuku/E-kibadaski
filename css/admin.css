@@ -1,0 +1,18 @@
+
+.cat{
+    padding: 5px;
+    border-radius: 8px;
+    margin-left: 5px;
+
+}
+
+
+.success{
+    color: #2ed573;
+}
+.error{
+    color: #ff4757;
+}
+
+
+/* CSS for Menu */
